@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
-	<atom:link href="http://adityaghyar.me/wordpress-test/2023/07/17/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://adityaghyar.me/wordpress-test/2023/07/17/hello-world/</link>
+	Comments for GFG	</title>
+	<atom:link href="https://adityaghyar.me/wordpress-test/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://adityaghyar.me/wordpress-test</link>
 	<description></description>
 	<lastBuildDate>Mon, 17 Jul 2023 11:37:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
-		<link>http://adityaghyar.me/wordpress-test/2023/07/17/hello-world/#comment-1</link>
+		Comment on Hello world! by A WordPress Commenter		</title>
+		<link>https://adityaghyar.me/wordpress-test/2023/07/17/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Mon, 17 Jul 2023 11:37:42 +0000</pubDate>
-		<guid isPermaLink="false">http://adityaghyar.me/wordpress-test/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://adityaghyar.me/wordpress-test/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

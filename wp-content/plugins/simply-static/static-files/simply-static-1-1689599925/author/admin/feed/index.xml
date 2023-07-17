@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; GFG</title>
-	<atom:link href="http://adityaghyar.me/wordpress-test/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>http://adityaghyar.me/wordpress-test</link>
+	<atom:link href="https://adityaghyar.me/wordpress-test/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://adityaghyar.me/wordpress-test</link>
 	<description></description>
 	<lastBuildDate>Mon, 17 Jul 2023 11:37:42 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://adityaghyar.me/wordpress-test/2023/07/17/hello-world/</link>
-					<comments>http://adityaghyar.me/wordpress-test/2023/07/17/hello-world/#comments</comments>
+		<link>https://adityaghyar.me/wordpress-test/2023/07/17/hello-world/</link>
+					<comments>https://adityaghyar.me/wordpress-test/2023/07/17/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 17 Jul 2023 11:37:42 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://adityaghyar.me/wordpress-test/?p=1</guid>
+		<guid isPermaLink="false">https://adityaghyar.me/wordpress-test/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://adityaghyar.me/wordpress-test/2023/07/17/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://adityaghyar.me/wordpress-test/2023/07/17/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
